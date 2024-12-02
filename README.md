@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/facc14a2-22f4-4a80-9720-cad57f40a774)
+
 # SSO Redirect Worker
 
 ## Set up
