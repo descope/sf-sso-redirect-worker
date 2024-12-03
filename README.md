@@ -4,7 +4,7 @@
 
 This utility, used in Descope's SSO Migration Process, defines and deploys a `CloudFlare Worker` for defining the redirect logic necessary for migrating to Descope.
 
-## SSO Migration
+## 🔄 SSO Migration
 
 If you have a previous SSO setup with a different authentication provider or a home-grown solution, usually, the tenant's IT management team is forced to re-configure the setup within their IdP to match the new authentication provider.
 This can cause a lot of friction and unnecessary time consumption, especially when this process requires reaching out to the customers, changing, and testing the authentication.
